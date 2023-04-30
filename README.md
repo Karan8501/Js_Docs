@@ -1,2 +1,2 @@
 # Js_Docs
-It is free code camp assignment (responsive legacy course)
+It is freecodecamp assignment (responsive legacy course)
